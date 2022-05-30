@@ -29,3 +29,8 @@ main:
   - name: My Resume
     url: uploads/resume.pdf
     weight: 70
+    
+    
+  - name: Start Here
+    url: '/me'
+    weight: 80    
