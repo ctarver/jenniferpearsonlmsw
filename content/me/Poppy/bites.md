@@ -7,7 +7,9 @@ toc: true
 # Bites
 She doesn't eat breb
 # Treats
-She likes treats now sometimes maybe
+She likes treats now sometimes maybe if they look like this:
+
+![alt text](https://github.com/ctarver/jenniferpearsonlmsw/blob/main/images/PoppysFave.jpg?raw=true)
 # Pets
 She prefers skritches on her head and neck
 # Photo Shoot
