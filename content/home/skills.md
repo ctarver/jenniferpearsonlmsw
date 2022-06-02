@@ -24,11 +24,11 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 15%
-    icon: camera-retro
+  - description: 
+    icon: hand-heart
     icon_pack: fas
-    name: Photography
-  - description: 25%
+    name: Assessment
+  - description: 
     icon: hand-holding-heart
     icon_pack: fas
     name: Emotional Support
