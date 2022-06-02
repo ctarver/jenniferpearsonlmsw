@@ -5,9 +5,9 @@ avatar_filename: 20170625-dsc_0124.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Emotional Support
+  - Pediatric Palliative Care
+  - Sewing
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,8 +31,8 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jennifer Pearson is a social worker at Cook Children's Medical Center, where she works with parents as a non-medical support within the Palliative Care team. Her areas of expertise include helping parents navigate confusing healthcare systems in regards to complex chronic illness and end-of-life concerns. Her research interests include social determinants of health and the impact of family presence on medical outcomes for children admitted to the hospital. She is currently an under-utilized member of the team and is always looking for an outlet for her passion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of work, Jennifer loves to sew. While her primary love is of quilting, she also loves to sew bags, totes, and anything other than clothing. Jennifer also loves to spend time with her husband, [Chance](https://www.chancetarver.com/), and adventure together.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
