@@ -26,7 +26,7 @@ feature:
     name: Statistics
   - description: 
     icon: hand-heart
-    icon_pack: fa
+    icon_pack: fas
     name: Psychosocial Assessments
   - description: 
     icon: hand-holding-heart
