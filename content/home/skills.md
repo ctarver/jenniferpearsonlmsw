@@ -21,12 +21,12 @@ feature:
     icon_pack: fa
     name: heart
   - description: 10%
-    icon: chart-line
+    icon: dumpster-fire
     icon_pack: fas
-    name: Statistics
-  - description: 
+    name: Managing Dumpster Fires
+  - description: 25%
     icon: house-heart
-    icon_pack: fab
+    icon_pack: fa
     name: Psychosocial Assessments
   - description: 
     icon: hand-holding-heart
