@@ -28,6 +28,10 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - description: 25%
+    icon: hand-holding-heart
+    icon_pack: fas
+    name: Emotional Support
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
