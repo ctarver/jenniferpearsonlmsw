@@ -29,8 +29,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Jennifer Pearson is a social worker at Cook Children's Medical Center, where she works with parents as a non-medical support within the Palliative Care team. Her areas of expertise include supporting parents as they navigate confusing healthcare systems in regards to complex chronic illness and end-of-life concerns. Her research interests include social determinants of health and the impact of family presence on medical outcomes for children admitted to the hospital.
+Jennifer Pearson is a therapist at Accepted Therapy Services. Before becoming a therapist, she was a social worker at Cook Children's Medical Center, where she worked with parents as a non-medical support within the Palliative Care team. Her areas of expertise include supporting parents as they navigate confusing healthcare systems in regards to complex chronic illness and end-of-life concerns. Her research interests include social determinants of health and the impact of family presence on medical outcomes for children admitted to the hospital.
 
 Outside of work, Jennifer loves to sew. While her primary love is of quilting, she also loves to sew bags, totes, and anything other than clothing. Jennifer also loves to spend time with her husband, [Chance](https://www.chancetarver.com/), and adventure together.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
