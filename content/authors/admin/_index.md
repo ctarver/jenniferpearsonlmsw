@@ -1,6 +1,6 @@
 ---
 title: Jennifer Pearson
-role: Licensed Master of Social Work
+role: Therapist
 avatar_filename: 20170625-dsc_0124.jpg
 bio: My interests include pediatric palliative care and medical social work
 interests:
@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jennifer-pearson85/
 organizations:
-  - name: Cook Children's Medical Center
-    url: https://www.cookchildrens.org
+  - name: Accepted Therapy Services
+    url: http://www.acceptedtherapy.com/
 education:
   courses:
     - course: Master of Social Work
